@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain_core
+fastapi[standard]
+uvicorn[standard]
+pydantic
