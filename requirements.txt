@@ -4,3 +4,5 @@ langchain_core
 fastapi[standard]
 uvicorn[standard]
 pydantic
+langchain_groq
+python-dotenv
